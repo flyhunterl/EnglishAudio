@@ -1,5 +1,5 @@
 # EnglishAudio 插件
-
+**大家帮忙点点star 谢谢啦!**
 > 本项目是 [dify-on-wechat](https://github.com/hanfangyuan4396/dify-on-wechat) 的插件项目，用于获取英语音频资源。项目思路来源于 [SearchMusic](https://github.com/Lingyuzhou111/SearchMusic) 项目，特此感谢。
 
 这是一个用于获取任意音频的插件，可以根据模块编号获取对应的音频文件并以语音方式发送。(目前为英语音频)
