@@ -1,0 +1,87 @@
+{
+    // 英语听力音频资源配置文件
+    // English Audio Resources Configuration File
+    
+    // 配置说明 Configuration Notes:
+    // 1. 所有URL已被移除以保护资源安全 (All URLs have been removed for resource security)
+    // 2. 键名格式说明 (Key name format):
+    //    - MxUy: 模块x单元y的课文音频 (Module x Unit y text audio)
+    //    - MxW: 模块x单词音频 (Module x words audio)
+    //    - MxUyL: 模块x单元y听力练习 (Module x Unit y listening practice)
+    //    - MxT: 模块x综合测试 (Module x comprehensive test)
+    //    - MTx: 期中/期末测试 (Midterm/Final test)
+
+    // 课文音频 (Text Audio)
+    "M10U1": "",
+    "M10U2": "",
+    "M1U1": "",
+    "M1U2": "",
+    "M2U1": "",
+    "M2U2": "",
+    "M3U1": "",
+    "M3U2": "",
+    "M4U1": "",
+    "M4U2": "",
+    "M5U1": "",
+    "M5U2": "",
+    "M6U1": "",
+    "M6U2": "",
+    "M7U1": "",
+    "M7U2": "",
+    "M8U1": "",
+    "M8U2": "",
+    "M9U1": "",
+    "M9U2": "",
+
+    // 单词音频 (Vocabulary Audio)
+    "M1W": "",
+    "M2W": "",
+    "M3W": "",
+    "M4W": "",
+    "M5W": "",
+    "M6W": "",
+    "M7W": "",
+    "M8W": "",
+    "M9W": "",
+    "M10W": "",
+    "Proper nouns": "",
+    "Words in songs and chants": "",
+
+    // 听力练习 (Listening Practice)
+    "M1U1L": "",
+    "M1U2L": "",
+    "M2U1L": "",
+    "M2U2L": "",
+    "M3U1L": "",
+    "M3U2L": "",
+    "M4U1L": "",
+    "M4U2L": "",
+    "M5U1L": "",
+    "M5U2L": "",
+    "M6U1L": "",
+    "M6U2L": "",
+    "M7U1L": "",
+    "M7U2L": "",
+    "M8U1L": "",
+    "M8U2L": "",
+    "M9U1L": "",
+    "M9U2L": "",
+    "M10U1L": "",
+    "M10U2L": "",
+
+    // 模块测试 (Module Tests)
+    "M1T": "",
+    "M2T": "",
+    "M3T": "",
+    "M4T": "",
+    "M5T": "",
+    "M6T": "",
+    "M7T": "",
+    "M8T": "",
+    "M9T": "",
+    "M10T": "",
+
+    // 综合测试 (Comprehensive Tests)
+    "MT1": "",  // 期中测试 (Midterm test)
+    "MT2": ""   // 期末测试 (Final test)
+}
