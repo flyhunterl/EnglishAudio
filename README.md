@@ -172,19 +172,6 @@ The `config.json` file contains configuration information for all audio resource
   - `MT1`: 期中测试 (Midterm test)
   - `MT2`: 期末测试 (Final test)
 
-## 资源类型 (Resource Types)
-
-1. 课文音频 (Text Audio)
-   - 包含模块1-10的所有单元课文音频
-2. 单词音频 (Vocabulary Audio)
-   - 包含模块1-10的单词音频
-   - 专有名词 (Proper nouns)
-   - 歌曲和韵文中的单词 (Words in songs and chants)
-3. 听力练习 (Listening Practice)
-   - 包含模块1-10的所有单元听力练习
-4. 测试音频 (Test Audio)
-   - 模块测试：模块1-10的综合测试
-   - 综合测试：期中和期末测试
 
 ## 鸣谢
 - [dify-on-wechat](https://github.com/hanfangyuan4396/dify-on-wechat) - 本项目的基础框架
