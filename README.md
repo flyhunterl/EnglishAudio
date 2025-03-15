@@ -179,7 +179,5 @@ The `config.json` file contains configuration information for all audio resource
 - [Gewechat](https://github.com/Devo919/Gewechat) - 微信机器人框架，个人微信二次开发的免费开源框架 
 
 ## 打赏
-如果您觉得这个项目对您有帮助，欢迎打赏支持作者继续维护和开发更多功能！
-
+**您的打赏能让我在下一顿的泡面里加上一根火腿肠。**
 ![20250314_125818_133_copy](https://github.com/user-attachments/assets/33df0129-c322-4b14-8c41-9dc78618e220)
-
